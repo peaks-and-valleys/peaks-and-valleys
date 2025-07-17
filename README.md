@@ -1,5 +1,3 @@
-<img src="./usachan.svg" alt="usachan" width="240   ">
-
 [![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peaks-and-valleys&theme=swift)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaks-and-valleys&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
