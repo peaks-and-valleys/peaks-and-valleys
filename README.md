@@ -1,5 +1,3 @@
 <img src="./gaming-usachan.svg" alt="gaming usachan" width="320" />
 
-[![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peaks-and-valleys&theme=swift)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaks-and-valleys&layout=compact&theme=swift&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peaks-and-valleys&hide_progress=true&theme=swift&size_weight=0.5&count_weight=0.5&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
